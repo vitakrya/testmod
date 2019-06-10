@@ -15,3 +15,12 @@ Options:
     -h --help  Show this help message
     -v --version  Show version
     -a --all  Show all jokes
+
+`$ some-command`
+Not for
+        jcdc  fdv 
+        
+.. raw: text
+      vcvrgtrg
+      rgr egreg 
+        gre gre greg rg
