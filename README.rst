@@ -25,7 +25,7 @@ Prim
 
 Exampl from `git-joke --help`:
 
-.. code::
+.. code-block::
         $ Oba works
         grt gtr ht h
         hthtr hthny
