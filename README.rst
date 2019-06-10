@@ -23,9 +23,7 @@ Not for
 Prim
 ----
 
-Exampl from `git-joke --help`:
-
-.. ::
+Exampl from `git-joke --help`::
         $ Oba works
         grt gtr ht h
         hthtr hthny
