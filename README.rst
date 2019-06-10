@@ -20,10 +20,13 @@ Options:
 Not for
         jcdc  fdv 
 
-::
-        vrr
-        grt gtr ht h
-           hthtr hth
+Prim
+----
+
+Exampl from `git-joke --help`:
+        | `$ Oba works`
+        | `grt gtr ht h`
+        | `hthtr hth`
 .. raw: text
       vcvrgtrg
       rgr egreg 
