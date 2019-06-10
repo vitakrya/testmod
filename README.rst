@@ -23,8 +23,6 @@ Not for
 Prim
 ----
 
-
-Exampl from `git-joke --help`::
 code::
         $ Oba works
         grt gtr ht h
