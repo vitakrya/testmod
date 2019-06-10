@@ -29,7 +29,3 @@ Exampl from `git-joke --help`:
         $ Oba works
         grt gtr ht h
         hthtr hthny
-.. raw: tex
-      vcvrgtrg
-      rgr egreg 
-        gre gre greg rg
