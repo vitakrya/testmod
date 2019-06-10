@@ -26,9 +26,9 @@ Prim
 Exampl from `git-joke --help`:
 
 .. code::
-        | `$ Oba works`
-        | `grt gtr ht h`
-        | `hthtr hth`
+        `$ Oba works`
+        `grt gtr ht h`
+        `hthtr hthny`
 .. raw: text
       vcvrgtrg
       rgr egreg 
