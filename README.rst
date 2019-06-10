@@ -1,5 +1,5 @@
 Testmod
 -------
 
-.. |ImgLink| image:: https://travis-ci.org/vitakrya/git-joke-cli.svg?branch=master
-.. _ImgLink: https://travis-ci.org/vitakrya/git-joke-cli
+.. image:: https://travis-ci.org/vitakrya/git-joke-cli.svg?branch=master
+   :target: https://travis-ci.org/vitakrya/git-joke-cli
