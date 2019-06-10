@@ -23,7 +23,8 @@ Not for
 Prim
 ----
 
-Example from internal help command::
+Example from internal
+help command::
         $ Oba works
         grt gtr ht h
         hthtr hthny
