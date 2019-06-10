@@ -24,6 +24,7 @@ Prim
 ----
 
 Example from:
+
 code::
         $ Oba works
         grt gtr ht h
