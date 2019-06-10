@@ -26,10 +26,10 @@ Prim
 Exampl from `git-joke --help`:
 
 .. code::
-        `$ Oba works`
-        `grt gtr ht h`
-        `hthtr hthny`
-.. raw: text
+        $ Oba works
+        grt gtr ht h
+        hthtr hthny
+.. raw: tex
       vcvrgtrg
       rgr egreg 
         gre gre greg rg
