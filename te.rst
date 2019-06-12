@@ -38,7 +38,7 @@ occurs until a value is returned.
 
     print(do_something_unreliable())
 
-.. testoutput::
+.. output::
    :hide:
 
    Awesome sauce!
@@ -90,11 +90,11 @@ Basic Retry
 As you saw above, the default behavior is to retry forever without waiting when
 an exception is raised.
 
-.. testcode::
+.. code::
 
     @retry
     def never_give_up_never_surrender():
-        print("Retry forever ignoring Exceptions, don't wait between retries")
+        print("[Ma] Retry forever ignoring Exceptions, don't wait between retries")
         raise Exception
 
 Stopping
